@@ -1,4 +1,4 @@
-package com.brats.helloworld;
+package com.brats.helloapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
